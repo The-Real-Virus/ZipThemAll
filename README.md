@@ -14,8 +14,5 @@ it can zip tons of folders just in one click !
 
 ## 📂EXAMPLE SS !  
 
-![Image 1](pics/1.png)
-![Image 2](pics/2.png)
-![Image 3](pics/3.png)
-![Image 4](pics/4.png)
-![Image 5](pics/5.png)
+<img src="pics/1.png" alt="Image 1" width="300">
+
